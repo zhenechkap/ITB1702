@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/evgenia/Projects/Week1/Week1/Week1.csproj",
+      "projectUniqueName": "/Users/evgenia/Projects/zhenechkap/ITB1702.git/Week1/Week1/Week1.csproj",
       "projectName": "Week1",
-      "projectPath": "/Users/evgenia/Projects/Week1/Week1/Week1.csproj",
+      "projectPath": "/Users/evgenia/Projects/zhenechkap/ITB1702.git/Week1/Week1/Week1.csproj",
       "packagesPath": "/Users/evgenia/.nuget/packages/",
-      "outputPath": "/Users/evgenia/Projects/Week1/Week1/obj",
+      "outputPath": "/Users/evgenia/Projects/zhenechkap/ITB1702.git/Week1/Week1/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
