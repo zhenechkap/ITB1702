@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef3bdf69-fe35-497d-8132-19de17d28937" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week2/lesson 12/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="73" column="2" selection-start-line="73" selection-start-column="2" selection-end-line="73" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/week2/lesson8/index.html" />
+        <option value="$PROJECT_DIR$/week2/lesson 9/index.html" />
+        <option value="$PROJECT_DIR$/week2/lesson 10/index.html" />
+        <option value="$PROJECT_DIR$/week2/lesson 11/index.html" />
+        <option value="$PROJECT_DIR$/week2/lesson 12/index.html" />
+        <option value="$PROJECT_DIR$/week2/lesson13/index.html" />
+        <option value="$PROJECT_DIR$/week2/lesson14/index.html" />
+        <option value="$PROJECT_DIR$/week2/lesson 15/index.html" />
+        <option value="$PROJECT_DIR$/week2/lesson 16/index.html" />
+        <option value="$PROJECT_DIR$/week2/lesson 17/index.html" />
+        <option value="$PROJECT_DIR$/week2/lesson 12/styles.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="822" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ITB1702" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ITB1702" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef3bdf69-fe35-497d-8132-19de17d28937" name="Default Changelist" comment="" />
+      <created>1549817549054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549817549054</updated>
+      <workItem from="1549817552144" duration="5564000" />
+      <workItem from="1550220439084" duration="440000" />
+    </task>
+    <task id="LOCAL-00001" summary="lesson-8-html-lists">
+      <created>1549817664283</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549817664283</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lesson 9- html tabels">
+      <created>1549818785970</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549818785970</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson 10 - forms">
+      <created>1549822453524</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549822453524</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson 11 - form validation/regex">
+      <created>1549824717419</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549824717419</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson - 12, styling with css">
+      <created>1549826942409</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1549826942409</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson - 13, 4 ways of setting font sizes">
+      <created>1549835122648</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1549835122649</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson - 14, 3 ways of setting color of font">
+      <created>1549835316798</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1549835316798</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lesson - 15,types of li objects">
+      <created>1549878385029</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1549878385029</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lesson - 16, div element wrapping - text styling">
+      <created>1549891086186</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1549891086186</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lesson - 16, div element wrapping - text styling">
+      <created>1549915095439</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1549915095441</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6004000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson-8-html-lists" />
+    <MESSAGE value="lesson 9- html tabels" />
+    <MESSAGE value="lesson 10 - forms" />
+    <MESSAGE value="lesson 11 - form validation/regex" />
+    <MESSAGE value="lesson - 12, styling with css" />
+    <MESSAGE value="lesson - 13, 4 ways of setting font sizes" />
+    <MESSAGE value="lesson - 14, 3 ways of setting color of font" />
+    <MESSAGE value="lesson - 15,types of li objects" />
+    <MESSAGE value="lesson - 16, div element wrapping - text styling" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson - 16, div element wrapping - text styling" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/week2/lesson8/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/lesson 9/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/lesson 10/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/lesson 11/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="71" column="7" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/lesson 12/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/lesson13/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2370">
+          <caret line="158" column="4" selection-start-line="158" selection-start-column="4" selection-end-line="158" selection-end-column="4" />
+          <folding>
+            <element signature="e#116#142#0" expanded="true" />
+            <element signature="e#169#195#0" expanded="true" />
+            <element signature="e#222#250#0" expanded="true" />
+            <element signature="e#279#310#0" expanded="true" />
+            <element signature="e#368#390#0" expanded="true" />
+            <element signature="e#413#437#0" expanded="true" />
+            <element signature="e#462#485#0" expanded="true" />
+            <element signature="e#509#532#0" expanded="true" />
+            <element signature="e#556#582#0" expanded="true" />
+            <element signature="e#609#633#0" expanded="true" />
+            <element signature="e#658#683#0" expanded="true" />
+            <element signature="e#709#733#0" expanded="true" />
+            <element signature="e#758#783#0" expanded="true" />
+            <element signature="e#809#835#0" expanded="true" />
+            <element signature="e#862#889#0" expanded="true" />
+            <element signature="e#945#972#0" expanded="true" />
+            <element signature="e#1000#1028#0" expanded="true" />
+            <element signature="e#1057#1082#0" expanded="true" />
+            <element signature="e#1108#1135#0" expanded="true" />
+            <element signature="e#1163#1187#0" expanded="true" />
+            <element signature="e#1212#1236#0" expanded="true" />
+            <element signature="e#1288#1314#0" expanded="true" />
+            <element signature="e#1341#1367#0" expanded="true" />
+            <element signature="e#1394#1421#0" expanded="true" />
+            <element signature="e#1478#1506#0" expanded="true" />
+            <element signature="e#1535#1567#0" expanded="true" />
+            <element signature="e#1631#1661#0" expanded="true" />
+            <element signature="e#1692#1720#0" expanded="true" />
+            <element signature="e#1778#1806#0" expanded="true" />
+            <element signature="e#1851#1877#0" expanded="true" />
+            <element signature="e#1948#1975#0" expanded="true" />
+            <element signature="e#2161#2185#0" expanded="true" />
+            <element signature="e#2466#2500#0" expanded="true" />
+            <element signature="e#2536#2569#0" expanded="true" />
+            <element signature="e#2604#2637#0" expanded="true" />
+            <element signature="e#2699#2723#0" expanded="true" />
+            <element signature="e#2748#2774#0" expanded="true" />
+            <element signature="e#2801#2826#0" expanded="true" />
+            <element signature="e#2890#2931#0" expanded="true" />
+            <element signature="e#2947#2989#0" expanded="true" />
+            <element signature="e#3037#3078#0" expanded="true" />
+            <element signature="e#3094#3139#0" expanded="true" />
+            <element signature="e#3190#3231#0" expanded="true" />
+            <element signature="e#3247#3292#0" expanded="true" />
+            <element signature="e#3343#3384#0" expanded="true" />
+            <element signature="e#3400#3444#0" expanded="true" />
+            <element signature="e#3494#3535#0" expanded="true" />
+            <element signature="e#3551#3593#0" expanded="true" />
+            <element signature="e#3641#3682#0" expanded="true" />
+            <element signature="e#3698#3745#0" expanded="true" />
+            <element signature="e#3798#3839#0" expanded="true" />
+            <element signature="e#3855#3902#0" expanded="true" />
+            <element signature="e#3955#3996#0" expanded="true" />
+            <element signature="e#4012#4062#0" expanded="true" />
+            <element signature="e#4142#4166#0" expanded="true" />
+            <element signature="e#4191#4216#0" expanded="true" />
+            <element signature="e#4270#4296#0" expanded="true" />
+            <element signature="e#4479#4502#0" expanded="true" />
+            <element signature="e#4688#4714#0" expanded="true" />
+            <element signature="e#4935#4964#0" expanded="true" />
+            <element signature="e#4994#5028#0" expanded="true" />
+            <element signature="e#5063#5096#0" expanded="true" />
+            <element signature="e#5130#5167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/lesson14/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/lesson 15/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="227" column="14" lean-forward="true" selection-start-line="227" selection-start-column="14" selection-end-line="227" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#ul#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#7;n#ul#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#8;n#ul#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="e#2774#2780#0" expanded="true" />
+            <element signature="e#2791#2797#0" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="e#3056#3062#1" expanded="true" />
+            <element signature="e#3515#3521#0" expanded="true" />
+            <element signature="e#3527#3533#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/lesson 16/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2101">
+          <caret line="236" column="7" selection-start-line="236" selection-start-column="7" selection-end-line="236" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#4;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#5;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#p#7;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#p#8;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#4;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#4;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#4;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#4;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="e#4485#4491#0" expanded="true" />
+            <element signature="e#4502#4508#0" expanded="true" />
+            <element signature="e#4737#4743#0" expanded="true" />
+            <element signature="e#4747#4753#0" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#10;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#11;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#12;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#13;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="e#9432#9438#1" expanded="true" />
+            <element signature="e#9454#9460#1" expanded="true" />
+            <element signature="e#9476#9482#1" expanded="true" />
+            <element signature="e#9498#9504#1" expanded="true" />
+            <element signature="e#9520#9526#1" expanded="true" />
+            <element signature="e#9542#9548#1" expanded="true" />
+            <element signature="e#9564#9570#1" expanded="true" />
+            <element signature="e#9586#9592#1" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#10;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#11;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#12;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#13;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#14;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#15;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#16;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#17;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#18;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#19;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#20;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#21;n#h2#0;n#div#4;n#div#14;n#body#0;n#!!top" expanded="true" />
+            <element signature="e#13943#13949#0" expanded="true" />
+            <element signature="e#13956#13962#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/lesson 17/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/lesson 12/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="73" column="2" selection-start-line="73" selection-start-column="2" selection-end-line="73" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
