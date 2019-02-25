@@ -1,0 +1,14 @@
+/Users/evgenia/workspace/ITB1702/week4/MyFirstASP/MyFirstASP/bin/Debug/netcoreapp2.1/MyFirstASP.deps.json
+/Users/evgenia/workspace/ITB1702/week4/MyFirstASP/MyFirstASP/bin/Debug/netcoreapp2.1/MyFirstASP.runtimeconfig.json
+/Users/evgenia/workspace/ITB1702/week4/MyFirstASP/MyFirstASP/bin/Debug/netcoreapp2.1/MyFirstASP.runtimeconfig.dev.json
+/Users/evgenia/workspace/ITB1702/week4/MyFirstASP/MyFirstASP/bin/Debug/netcoreapp2.1/MyFirstASP.dll
+/Users/evgenia/workspace/ITB1702/week4/MyFirstASP/MyFirstASP/bin/Debug/netcoreapp2.1/MyFirstASP.pdb
+/Users/evgenia/workspace/ITB1702/week4/MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.csprojAssemblyReference.cache
+/Users/evgenia/workspace/ITB1702/week4/MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.csproj.CoreCompileInputs.cache
+/Users/evgenia/workspace/ITB1702/week4/MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.RazorAssemblyInfo.cache
+/Users/evgenia/workspace/ITB1702/week4/MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.RazorAssemblyInfo.cs
+/Users/evgenia/workspace/ITB1702/week4/MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.AssemblyInfoInputs.cache
+/Users/evgenia/workspace/ITB1702/week4/MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.AssemblyInfo.cs
+/Users/evgenia/workspace/ITB1702/week4/MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.RazorTargetAssemblyInfo.cache
+/Users/evgenia/workspace/ITB1702/week4/MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.dll
+/Users/evgenia/workspace/ITB1702/week4/MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.pdb
