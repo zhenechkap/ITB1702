@@ -1,0 +1,54 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/evgenia/workspace/ITB1702/week4/Infra/Infra.csproj",
+    "projectName": "Infra",
+    "projectPath": "/Users/evgenia/workspace/ITB1702/week4/Infra/Infra.csproj",
+    "outputPath": "/Users/evgenia/workspace/ITB1702/week4/Infra/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/evgenia/workspace/ITB1702/week4/Core/Core.csproj": {
+            "projectPath": "/Users/evgenia/workspace/ITB1702/week4/Core/Core.csproj"
+          },
+          "/Users/evgenia/workspace/ITB1702/week4/Facade/Facade.csproj": {
+            "projectPath": "/Users/evgenia/workspace/ITB1702/week4/Facade/Facade.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "[2.2.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

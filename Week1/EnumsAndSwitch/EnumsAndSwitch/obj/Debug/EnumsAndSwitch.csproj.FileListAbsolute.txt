@@ -1,0 +1,7 @@
+/Users/evgenia/workspace/ITB1702/Week1/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/EnumsAndSwitch.exe.config
+/Users/evgenia/workspace/ITB1702/Week1/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/EnumsAndSwitch.exe
+/Users/evgenia/workspace/ITB1702/Week1/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/EnumsAndSwitch.pdb
+/Users/evgenia/workspace/ITB1702/Week1/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/EnumsAndSwitch.csprojAssemblyReference.cache
+/Users/evgenia/workspace/ITB1702/Week1/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/EnumsAndSwitch.csproj.CoreCompileInputs.cache
+/Users/evgenia/workspace/ITB1702/Week1/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/EnumsAndSwitch.exe
+/Users/evgenia/workspace/ITB1702/Week1/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/EnumsAndSwitch.pdb
