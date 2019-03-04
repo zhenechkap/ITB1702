@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{4B5A535A-47CC-48CD-97AC-BD0AD2D67E09}|Default">
+﻿<Properties StartupConfiguration="{31637A33-6314-416E-A48E-48CBDF2118C5}|Default">
   <MonoDevelop.Ide.ItemProperties.ContosoUniversity PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
     <Files>
-      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
@@ -11,4 +11,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <AuthorInfo Name="zhenechkap" Email="" Copyright="" Company="" Trademark="" />
 </Properties>
