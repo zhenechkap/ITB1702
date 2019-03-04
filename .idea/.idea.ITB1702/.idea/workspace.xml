@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e438f86f-1a7d-42a9-aaa2-71a9195aafea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ITB1702/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ITB1702/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ITB1702/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ITB1702/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/EnumsAndSwitch/EnumsAndSwitch/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/.idea/.idea.MyFirstASP/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/.idea/.idea.MyFirstASP/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/.idea/.idea.MyFirstASP/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/.idea/.idea.MyFirstASP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/.idea/.idea.MyFirstASP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/.idea/.idea.MyFirstASP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/.idea/.idea.MyFirstASP/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/.idea/.idea.MyFirstASP/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/MyFirstASP.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/MyFirstASP.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/MyFirstASP/MyFirstASP.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/MyFirstASP/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/MyFirstASP/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/MyFirstASP/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/MyFirstASP/MyFirstASP/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/.vs/Week1/xs/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/.vs/Week1/xs/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/EnumsAndSwitch/.vs/EnumsAndSwitch/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/EnumsAndSwitch/.vs/EnumsAndSwitch/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/EnumsAndSwitch/.vs/EnumsAndSwitch/xs/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/EnumsAndSwitch/.vs/EnumsAndSwitch/xs/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/EnumsAndSwitch/.vs/EnumsAndSwitch/xs/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/EnumsAndSwitch/.vs/EnumsAndSwitch/xs/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/EnumsAndSwitch/EnumsAndSwitch/EnumsAndSwitch.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/EnumsAndSwitch/EnumsAndSwitch/EnumsAndSwitch.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/dates.js" beforeDir="false" afterPath="$PROJECT_DIR$/week3/dates.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/dom-nodes.html" beforeDir="false" afterPath="$PROJECT_DIR$/week3/dom-nodes.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week3/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week1/EnumsAndSwitch/EnumsAndSwitch/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+              <folding>
+                <marker date="1549311418014" expanded="true" signature="141:3288" ph="{...}" />
+                <marker date="1549311418014" expanded="true" signature="161:2999" ph="{...}" />
+                <marker date="1549311418014" expanded="true" signature="207:1846" ph="{...}" />
+                <marker date="1549311418014" expanded="true" signature="278:1704" ph="{...}" />
+                <marker date="1549311418014" expanded="true" signature="1964:2993" ph="{...}" />
+                <marker date="1549311418014" expanded="true" signature="2014:2983" ph="{...}" />
+                <marker date="1549311418014" expanded="true" signature="2065:2916" ph="{...}" />
+                <marker date="1549311418014" expanded="true" signature="3015:3166" ph="{...}" />
+                <marker date="1549311418014" expanded="true" signature="3183:3286" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Week1/EnumsAndSwitch/EnumsAndSwitch/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="822" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="ITB1702" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week1/EnumsAndSwitch/EnumsAndSwitch.sln" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="?" />
+      <command value="open ~/workspace/ITB1702/Week1/EnumsAndSwitch" />
+      <command value="? Week1/EnumsAndSwitch" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e438f86f-1a7d-42a9-aaa2-71a9195aafea" name="Default Changelist" comment="" />
+      <created>1550776894429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550776894429</updated>
+      <workItem from="1550776898235" duration="92000" />
+      <workItem from="1550777046944" duration="333000" />
+      <workItem from="1550777530601" duration="54000" />
+      <workItem from="1550778452096" duration="20000" />
+      <workItem from="1550838514275" duration="993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1492000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32968536" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="14" visible="true" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Week1/EnumsAndSwitch/EnumsAndSwitch.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week1/EnumsAndSwitch/EnumsAndSwitch/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <marker date="1549311418014" expanded="true" signature="141:3288" ph="{...}" />
+            <marker date="1549311418014" expanded="true" signature="161:2999" ph="{...}" />
+            <marker date="1549311418014" expanded="true" signature="207:1846" ph="{...}" />
+            <marker date="1549311418014" expanded="true" signature="278:1704" ph="{...}" />
+            <marker date="1549311418014" expanded="true" signature="1964:2993" ph="{...}" />
+            <marker date="1549311418014" expanded="true" signature="2014:2983" ph="{...}" />
+            <marker date="1549311418014" expanded="true" signature="2065:2916" ph="{...}" />
+            <marker date="1549311418014" expanded="true" signature="3015:3166" ph="{...}" />
+            <marker date="1549311418014" expanded="true" signature="3183:3286" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

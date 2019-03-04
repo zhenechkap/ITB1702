@@ -1,19 +1,18 @@
-let today = new Date();
+let today = new Date('February 21, 2019 07:01:23');
 
-let bob = new Date('December 7, 1969 07:01:23');
-// let bob = new Date('1969-12-07T07:01:23');
-// let bob = new Date(1969, 11, 6);
-// let bob = new Date(1969, 11, 6, 7, 1,23);
+let evgenia = new Date('April 6, 1993 07:01:23');
 
-// var elapsedTime = today - bob;
-// console.log(elapsedTime);
+
+var elapsedTime = today - evgenia;
+console.log(elapsedTime);
 
 // get parts
 // console.log(bob.getDate()); // Monday = 1, Sunday = 7
 // console.log(bob.getTime());
 
+
+console.log(evgenia.getMonth());
 /*
-getMonth()
 getDay()
 
 

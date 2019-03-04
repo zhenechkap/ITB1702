@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4a53706-e669-4e2f-957d-7db7412932e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.idea.ITB1702/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.idea.ITB1702/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.idea.ITB1702/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.idea.ITB1702/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week1/EnumsAndSwitch/EnumsAndSwitch/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/Core.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/Employee.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/NameValidation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/SalaryValidation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/UserDetails.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/UserValidation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/Core.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/System.ComponentModel.Annotations.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/System.ComponentModel.Annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/System.Data.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/System.Diagnostics.Tracing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/System.Globalization.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/System.IO.Compression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/System.Net.Sockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/System.Runtime.Serialization.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/System.Security.Cryptography.Algorithms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/System.Security.SecureString.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/System.Threading.Overlapped.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/bin/Debug/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/obj/Debug/Core.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/obj/Debug/Core.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/obj/Debug/Core.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/obj/Debug/Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/obj/Debug/Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/obj/Debug/Core.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/CreateEmployeeViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/EmployeeListViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/EmployeeViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/ErrorViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/Facade.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/bin/Debug/Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/bin/Debug/Core.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/bin/Debug/Facade.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/bin/Debug/Facade.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/bin/Debug/System.ComponentModel.Annotations.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/bin/Debug/System.ComponentModel.Annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/obj/Debug/Facade.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/obj/Debug/Facade.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/obj/Debug/Facade.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/obj/Debug/Facade.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/obj/Debug/Facade.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/obj/Debug/Facade.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Infra/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Infra/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Infra/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Infra/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employees.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infra.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesDbContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Core.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Facade.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Facade.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Infra.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Infra.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Infra.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Infra.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Infra.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Infra.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Infra.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Infra.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Infra.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Infra.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Infra.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Infra.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Infra.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Infra.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Infra.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Infra.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Infra.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Controllers/AuthenticationController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Controllers/EmployeeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Controllers/HomeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/FileUploadViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Filters/AdminFilter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/MVC.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/MVC.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Migrations/20190222193030_initial.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Migrations/20190222193030_initial.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Migrations/SalesDbContextModelSnapshot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/ViewModels/FooterViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Authentication/Login.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Employee/CreateEmployee.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Employee/Delete.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Employee/Edit.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Employee/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Employee/NewLinkViewComponent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Home/About.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Home/Contact.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Home/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Home/Privacy.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Shared/Components/NewLink/AddNewLink.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Shared/Error.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Shared/Footer.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Shared/_CookieConsentPartial.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/_ViewImports.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Views/_ViewStart.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.1/Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.1/Core.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.1/Facade.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.1/Facade.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.1/MVC.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.1/MVC.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.1/MVC.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.1/MVC.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.1/MVC.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.1/MVC.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.1/MVC.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.2/Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.2/Core.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.2/Facade.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.2/Facade.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.2/Infra.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.2/Infra.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.2/MVC.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.2/MVC.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.2/MVC.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.2/MVC.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.2/MVC.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.2/MVC.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/bin/Debug/netcoreapp2.2/MVC.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.RazorAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.RazorAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.RazorCoreGenerate.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.RazorTargetAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.TagHelpers.input.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.TagHelpers.output.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/MVC.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/Razor/Views/Test/MyView.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.RazorAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.RazorAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.RazorCoreGenerate.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.RazorTargetAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.TagHelpers.input.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.TagHelpers.output.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/MVC.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Authentication/Login.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Employee/CreateEmployee.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Employee/Delete.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Employee/Edit.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Employee/Index.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Home/Contact.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Components/NewLink/AddNewLink.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Footer.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/MVC.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/MVC.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/MVC.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/css/site.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/images/banner1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/images/banner2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/images/banner3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/js/Validations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/js/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/js/site.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/bootstrap/dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery-validation-unobtrusive/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery-validation/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/.idea/.idea.MyFirstASP/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/.idea/.idea.MyFirstASP/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/.idea/.idea.MyFirstASP/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/.idea/.idea.MyFirstASP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/.idea/.idea.MyFirstASP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/.idea/.idea.MyFirstASP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/.idea/.idea.MyFirstASP/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/.idea/.idea.MyFirstASP/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/MyFirstASP.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/bin/Debug/netcoreapp2.1/MyFirstASP.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/bin/Debug/netcoreapp2.1/MyFirstASP.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/bin/Debug/netcoreapp2.1/MyFirstASP.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/bin/Debug/netcoreapp2.1/MyFirstASP.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/bin/Debug/netcoreapp2.1/MyFirstASP.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.RazorAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.RazorAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/Debug/netcoreapp2.1/MyFirstASP.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/MyFirstASP.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/MyFirstASP.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/MyFirstASP.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstASP/MyFirstASP/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/EmployeeViewModelTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/Tests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/Core.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/Facade.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/Facade.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/Infra.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/Infra.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/MVC.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/MVC.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/MVC.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/MVC.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/Tests.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/Tests.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/Tests.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/Tests.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/Tests.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/bin/Debug/netcoreapp2.2/nunit_random_seed.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Debug/netcoreapp2.2/Tests.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Debug/netcoreapp2.2/Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Debug/netcoreapp2.2/Tests.Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Debug/netcoreapp2.2/Tests.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Debug/netcoreapp2.2/Tests.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Debug/netcoreapp2.2/Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Debug/netcoreapp2.2/Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Debug/netcoreapp2.2/Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Debug/netcoreapp2.2/Tests.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Debug/netcoreapp2.2/Tests.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Tests.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Tests.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/Tests.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/.vs/Week1/xs/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/.vs/Week1/xs/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/EnumsAndSwitch/.vs/EnumsAndSwitch/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/EnumsAndSwitch/.vs/EnumsAndSwitch/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/EnumsAndSwitch/.vs/EnumsAndSwitch/xs/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/EnumsAndSwitch/.vs/EnumsAndSwitch/xs/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/EnumsAndSwitch/.vs/EnumsAndSwitch/xs/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/EnumsAndSwitch/.vs/EnumsAndSwitch/xs/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/EnumsAndSwitch/EnumsAndSwitch/EnumsAndSwitch.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/EnumsAndSwitch/EnumsAndSwitch/EnumsAndSwitch.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3/dates.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../week3/dates.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3/dom-nodes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../week3/dom-nodes.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Employees.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+              <folding>
+                <marker date="1550933406000" expanded="false" signature="6:111" ph="..." />
+                <marker date="1550933406000" expanded="true" signature="128:789" ph="{...}" />
+                <marker date="1550933406000" expanded="true" signature="157:787" ph="{...}" />
+                <marker date="1550933406000" expanded="true" signature="223:285" ph="{...}" />
+                <marker date="1550933406000" expanded="true" signature="346:451" ph="{...}" />
+                <marker date="1550933406000" expanded="true" signature="509:602" ph="{...}" />
+                <marker date="1550933406000" expanded="true" signature="685:781" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Employees.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="822" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Infra" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4a53706-e669-4e2f-957d-7db7412932e5" name="Default Changelist" comment="" />
+      <created>1551120842586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551120842586</updated>
+      <workItem from="1551120844475" duration="319000" />
+      <workItem from="1551121186714" duration="251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="570000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Employees.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <marker date="1550933406000" expanded="false" signature="6:111" ph="..." />
+            <marker date="1550933406000" expanded="true" signature="128:789" ph="{...}" />
+            <marker date="1550933406000" expanded="true" signature="157:787" ph="{...}" />
+            <marker date="1550933406000" expanded="true" signature="223:285" ph="{...}" />
+            <marker date="1550933406000" expanded="true" signature="346:451" ph="{...}" />
+            <marker date="1550933406000" expanded="true" signature="509:602" ph="{...}" />
+            <marker date="1550933406000" expanded="true" signature="685:781" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
